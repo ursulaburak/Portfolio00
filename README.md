@@ -1,1 +1,1 @@
-# Portfolio00
+# Portfolio sayfası oluşturma örneği
